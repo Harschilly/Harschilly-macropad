@@ -16,6 +16,10 @@ My Macropad For Hack club(Hack pad)
 
 1x 1x4 2.54mm female header
 
+# Assembled MacroPad
+<img width="560" height="418" alt="image" src="https://github.com/user-attachments/assets/ba1465d6-755e-4501-b514-0e047353ca80" />
+
+
 # My Schematic
 <img width="709" height="507" alt="image" src="https://github.com/user-attachments/assets/586e3ff9-800c-4423-b1eb-ef52430e74da" />
 
