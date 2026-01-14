@@ -16,6 +16,10 @@ My Macropad For Hack club(Hack pad)
 
 1x 1x4 2.54mm female header
 
+1x 3d printed case(own)
+
+1x 3d printed knop (own)
+
 # Assembled MacroPad
 <img width="560" height="418" alt="image" src="https://github.com/user-attachments/assets/ba1465d6-755e-4501-b514-0e047353ca80" />
 
@@ -35,3 +39,8 @@ My Macropad For Hack club(Hack pad)
 <img width="419" height="476" alt="image" src="https://github.com/user-attachments/assets/fdab4d45-df46-4c1d-9099-dd482e95a81f" />
 <img width="508" height="469" alt="image" src="https://github.com/user-attachments/assets/a0363877-facd-488f-9eec-8a8b56c2154c" />
 <img width="395" height="549" alt="image" src="https://github.com/user-attachments/assets/246c84bb-8596-4c32-85e6-94885484f7b4" />
+
+
+Design inspo from:cubit010
+
+Hope you enjoy😁
